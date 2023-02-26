@@ -31,7 +31,4 @@ public class Position {
         return "Row: " + row + "\n" + "Column: " + column;
     }
 
-    
-
-    
 }
